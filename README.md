@@ -324,9 +324,7 @@ agentic-ai/
 | 1 | [Learn Agentic AI ](https://www.kaggle.com/learn-guide/5-day-genai) | Examples of LLM-powered applications | Pending |
 | 2 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Learning path for AI and LLM development | Pending |
 | 2 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Templates for agent and RAG workflows | Pending |
-| 3 | Agent Framework Examples | Practical agent implementations | Pending |
-| 4 | RAG Examples | Retrieval-based LLM examples | Pending |
-| 5 | Multi-Agent Examples | Multi-agent collaboration projects | Pending |
+| 2 | [Free AI Agents Resources](https://github.com/avinash201199/free-ai-agents-resources) | A curated collection of free and open-source resources for learning and building AI agents (autonomous agents, LLM-powered agents, multi-agent systems, and agentic AI frameworks). Perfect for beginners to advanced developers. | Pending |
 
 </details>
 
