@@ -271,6 +271,7 @@ agentic-ai/
 |---|---|---|---|
 | 1 | Roadmap.sh AI / LLM Roadmaps | Learning path for AI and LLM development | Pending |
 | 2 | [What is agentic AI?](https://www.ibm.com/think/topics/agentic-ai) | Practice machine learning problems | Pending |
+| 3 | [Zero to AI](https://zero-to-ai.dev/10-specializations) | Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 | 2 | Deep-ML | Practice machine learning problems | Pending |
 | 3 | Prompt Libraries | Explore reusable prompts and templates | Pending |
 | 4 | Documentation of Agent Frameworks | Learn tools directly from official docs | Pending |
@@ -325,6 +326,7 @@ agentic-ai/
 | 2 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | Learning path for AI and LLM development | Pending |
 | 2 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Templates for agent and RAG workflows | Pending |
 | 2 | [Free AI Agents Resources](https://github.com/avinash201199/free-ai-agents-resources) | A curated collection of free and open-source resources for learning and building AI agents (autonomous agents, LLM-powered agents, multi-agent systems, and agentic AI frameworks). Perfect for beginners to advanced developers. | Pending |
+| 2 | [zero-to-ai](https://github.com/PavanMudigonda/zero-to-ai) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 
 </details>
 
