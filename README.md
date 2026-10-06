@@ -261,6 +261,7 @@ agentic-ai/
 | 5 | [RAG for Generative AI Applications Specialization](https://www.coursera.org/specializations/rag-for-generative-ai-applications?irclickid=RIMwY4SGUxycUVyXND0fZwm4UkuXYa0o73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_)| Learn agent collaboration patterns | Pending |
 | 5 | [CS329A Self-Improving AI Agents](https://www.youtube.com/playlist?list=PLangBM27OtEA)| Learn agent collaboration patterns | Pending |
 | 5 | [Awesome Agentic Resources](https://docs.google.com/document/d/1xzku3E2lg2r7ZNZc6JOX9qRTF742bL7dFGwGyt3sgnk/edit?tab=t.0#heading=h.9zh5c1ns2ozr)| Learn agent collaboration patterns | Pending |
+| 5 | [Develop AI Agents on Azure-Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)|Microsoft Learn offers a free Develop AI Agents on Azure learning path that covers agent development with Microsoft Foundry Agent Service and Microsoft Agent Framework.s | Pending |
 
 </details>
 
