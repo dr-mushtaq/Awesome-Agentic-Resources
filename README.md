@@ -273,7 +273,7 @@ agentic-ai/
 | 1 | Roadmap.sh AI / LLM Roadmaps | Learning path for AI and LLM development | Pending |
 | 2 | [What is agentic AI?](https://www.ibm.com/think/topics/agentic-ai) | Practice machine learning problems | Pending |
 | 3 | [Zero to AI](https://zero-to-ai.dev/10-specializations) | Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
-| 2 | Deep-ML | Practice machine learning problems | Pending |
+| 2 | [Open Source Toolkit for Building AI Agents 2026-Sheet](https://docs.google.com/spreadsheets/d/1cGylccKIuHDxnPpg68tPZxp8_XZP8VoPqkM7HgofPdk/edit?gid=1951886754#gid=1951886754) | Practice machine learning problems | Pending |
 | 3 | Prompt Libraries | Explore reusable prompts and templates | Pending |
 | 4 | Documentation of Agent Frameworks | Learn tools directly from official docs | Pending |
 
