@@ -305,6 +305,7 @@ agentic-ai/
 | 2 | [The Roadmap to Mastering Voice Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/?fbclid=IwY2xjawUXqu9wZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4Oxbxs34Wd-ZZ47SWMCRkdGwqAkoPXI3RHmU0L2vkHfSIkhOkDhiZqFyaqUw_aem_uUzZ8waaire_NcqDbLgKOQ) | Learning path for AI and LLM development | Pending |
 | 2 | [How to Master Agentic AI (Full Course)](https://theblueprintai.substack.com/p/how-to-master-agentic-ai-full-course?utm_source=share&utm_medium=android&r=f2squ) | Learning path for AI and LLM development | Pending |
 | 2 | [10 GitHub repositories to learn the Agentic AI concepts you need before 2027](https://www.reddit.com/r/letscodecommunity/comments/1wtivt6/10_github_repositories_to_learn_the_agentic_ai/) | Learning path for AI and LLM development | Pending |
+| 2 | [The Free AI Agent Engineering Roadmap](https://amanxai.com/2026/10/26/the-free-ai-agent-engineering-roadmap/?fbclid=IwY2xjawVMA5xleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR49S6r4IB2g6pDUxCeIp6IJJ5QgxL5z_A3dfq9r0xVougL-l9M7y-LIA7H2KA_aem_1TDj6wU9fiVNAUqHuLctuA) | Learning path for AI and LLM development | Pending |
 
 
 </details>
@@ -331,6 +332,7 @@ agentic-ai/
 | 2 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Templates for agent and RAG workflows | Pending |
 | 2 | [Free AI Agents Resources](https://github.com/avinash201199/free-ai-agents-resources) | A curated collection of free and open-source resources for learning and building AI agents (autonomous agents, LLM-powered agents, multi-agent systems, and agentic AI frameworks). Perfect for beginners to advanced developers. | Pending |
 | 2 | [zero-to-ai](https://github.com/PavanMudigonda/zero-to-ai) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
+| 2 | [Top 10 AI Agent GitHub Resource Collections](https://www.reddit.com/r/letscodecommunity/comments/1xf1hwn/top_10_ai_agent_github_resource_collections/) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 
 </details>
 
