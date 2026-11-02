@@ -333,7 +333,7 @@ agentic-ai/
 | 2 | [Free AI Agents Resources](https://github.com/avinash201199/free-ai-agents-resources) | A curated collection of free and open-source resources for learning and building AI agents (autonomous agents, LLM-powered agents, multi-agent systems, and agentic AI frameworks). Perfect for beginners to advanced developers. | Pending |
 | 2 | [zero-to-ai](https://github.com/PavanMudigonda/zero-to-ai) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 | 2 | [Top 10 AI Agent GitHub Resource Collections](https://www.reddit.com/r/letscodecommunity/comments/1xf1hwn/top_10_ai_agent_github_resource_collections/) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
-
+| 2 | [AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 </details>
 
 ---
