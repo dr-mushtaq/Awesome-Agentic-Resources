@@ -263,6 +263,8 @@ agentic-ai/
 | 5 | [Awesome Agentic Resources](https://docs.google.com/document/d/1xzku3E2lg2r7ZNZc6JOX9qRTF742bL7dFGwGyt3sgnk/edit?tab=t.0#heading=h.9zh5c1ns2ozr)| Learn agent collaboration patterns | Pending |
 | 5 | [Develop AI Agents on Azure-Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)|Microsoft Learn offers a free Develop AI Agents on Azure learning path that covers agent development with Microsoft Foundry Agent Service and Microsoft Agent Framework.s | Pending |
 | 5 | [5-Day AI Agents: Intensive Vibe Coding Course With Google](https://www.kaggle.com/learn-guide/5-day-agents-vibecoding)| Learn agent collaboration patterns | Pending |
+| 5 | [6 Agentic AI Courses on Master.dev Worth Exploring in 2027](https://medium.com/javarevisited/6-agentic-ai-courses-on-master-dev-worth-exploring-in-2027-eb5b081a803a)| Learn agent collaboration patterns | Pending |
+
 
 </details>
 
