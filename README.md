@@ -100,6 +100,21 @@ agentic-ai/
 ```
 
 ---
+<details>
+<summary>
+
+## 📚 To Do List
+
+</summary>
+
+### 📌 Task Dashboard
+
+| # | Title / Link | Description | Status | Priority |
+|---|---|---|---|---|
+| 01 | 📖 [If you want to get started with AI agents,then watch these 10 videos (save now):](https://substack.com/@systemdesignone/note/c-380328037?r=f2squ) | check video and resources and arrange in different category | 🟡 Pending | 🔥 High |
+
+</details>
+
 
 ## 📚 Course Roadmap
 
