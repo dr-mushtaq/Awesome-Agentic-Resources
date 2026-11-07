@@ -353,6 +353,15 @@ agentic-ai/
 | 2 | [AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 </details>
 
+<details>
+<summary><h2>Tutorial</h2></summary>
+
+| No. | Website | Description | Status |
+|---|---|---|---|
+| 1 | [Build Your First AI AGENT (Basics)!](https://learneasyai.substack.com/p/build-your-first-ai-agent-basics?utm_source=share&utm_medium=android&r=f2squ) | Learning path for AI and LLM development | Pending |
+
+</details>
+
 ---
 
 ## 🙌 Contributing
