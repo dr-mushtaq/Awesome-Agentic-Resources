@@ -323,6 +323,7 @@ agentic-ai/
 | 2 | [How to Master Agentic AI (Full Course)](https://theblueprintai.substack.com/p/how-to-master-agentic-ai-full-course?utm_source=share&utm_medium=android&r=f2squ) | Learning path for AI and LLM development | Pending |
 | 2 | [10 GitHub repositories to learn the Agentic AI concepts you need before 2027](https://www.reddit.com/r/letscodecommunity/comments/1wtivt6/10_github_repositories_to_learn_the_agentic_ai/) | Learning path for AI and LLM development | Pending |
 | 2 | [The Free AI Agent Engineering Roadmap](https://amanxai.com/2026/10/26/the-free-ai-agent-engineering-roadmap/?fbclid=IwY2xjawVMA5xleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR49S6r4IB2g6pDUxCeIp6IJJ5QgxL5z_A3dfq9r0xVougL-l9M7y-LIA7H2KA_aem_1TDj6wU9fiVNAUqHuLctuA) | Learning path for AI and LLM development | Pending |
+| 2 | [LLM Engineering Learning Path for 2027](https://amanxai.com/2026/11/09/llm-engineering-learning-path-for-2027/?fbclid=IwY2xjawVez65leHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR8wdFygYnYpD9TElgfZoITtqyixeyUialD3an4y015Kt8Qvsh9eJ1TMr70rWg_aem_hGjjCOJFixF1SCrE51Ut8g) | Learning path for AI and LLM development | Pending |
 
 
 </details>
