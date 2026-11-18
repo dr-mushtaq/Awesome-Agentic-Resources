@@ -279,7 +279,11 @@ agentic-ai/
 | 5 | [Develop AI Agents on Azure-Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)|Microsoft Learn offers a free Develop AI Agents on Azure learning path that covers agent development with Microsoft Foundry Agent Service and Microsoft Agent Framework.s | Pending |
 | 5 | [5-Day AI Agents: Intensive Vibe Coding Course With Google](https://www.kaggle.com/learn-guide/5-day-agents-vibecoding)| Learn agent collaboration patterns | Pending |
 | 5 | [6 Agentic AI Courses on Master.dev Worth Exploring in 2027](https://medium.com/javarevisited/6-agentic-ai-courses-on-master-dev-worth-exploring-in-2027-eb5b081a803a)| Learn agent collaboration patterns | Pending |
-
+| [1. Harvard CS50P – Introduction to Programming with Python](https://cs50.harvard.edu/python/) | Learn Python fundamentals and build a strong foundation for developing AI agents. |
+| [2. MIT – The Missing Semester](https://missing.csail.mit.edu/2026/) | Learn command-line tools, Git, developer workflows, and agentic coding techniques. |
+| [3. Harvard CS50 AI – Introduction to Artificial Intelligence](https://cs50.harvard.edu/ai/) | Explore search algorithms, machine learning, neural networks, and fundamental AI concepts. |
+| [4. Stanford CS146S – The Modern Software Developer](https://themodernsoftware.dev/) | Explore AI-powered software development, coding agents, and modern engineering workflows. |
+| [5. UC Berkeley – Agentic AI MOOC](https://agenticai-learning.org/f25) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
 
 </details>
 
