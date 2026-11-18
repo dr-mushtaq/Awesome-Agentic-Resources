@@ -261,6 +261,7 @@ agentic-ai/
 | 3 | [Agentic AI (by Andrew Ng)](https://www.deeplearning.ai/courses/agentic-ai) | Learn the fundamentals of how agents plan, use tools, reason, and evaluate their work. | Pending |
 | 4 | [UC Berkeley LLM Agents MOOC](https://llmagents-learning.org/f24) | Learn how LLMs use external tools | Pending |
 | 5 | [UC Berkeley Advanced LLM Agents MOOC](https://llmagents-learning.org/sp25)| Learn agent collaboration patterns | Pending |
+| 333 | [⭐CMU AI Agents](https://www.youtube.com/watch?v=w05Mk2tjl_U&list=PLf0BEPn2BGr0&index=1)| Learn agent collaboration patterns | Pending |
 | 5 | [Kaggle x Google 5-Day AI Agents Intensive](https://www.kaggle.com/learn-guide/5-day-agents)| Learn agent collaboration patterns | Pending |
 | 5 | [Introduction to LangGraph (LangChain Academy)](https://academy.langchain.com/courses/intro-to-langgraph)| Learn agent collaboration patterns | Pending |
 | 5 | [Anthropic Academy)](https://anthropic.skilljar.com/)| Learn agent collaboration patterns | Pending |
