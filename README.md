@@ -286,6 +286,8 @@ agentic-ai/
 | [4. Stanford CS146S – The Modern Software Developer](https://themodernsoftware.dev/) | Explore AI-powered software development, coding agents, and modern engineering workflows. |
 | [5. UC Berkeley – Agentic AI MOOC](https://agenticai-learning.org/f25) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
 | [5.CMU AI Agents](https://www.youtube.com/playlist?list=PLf0BEPn2BGr0) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
+| [5.Develop your first agent with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/develop-first-agent/?wt.mc_id=studentamb_571211) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
+
 
 </details>
 
