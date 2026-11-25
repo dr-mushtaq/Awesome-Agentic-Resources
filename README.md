@@ -26,6 +26,16 @@ The goal is simple: **learn Agentic AI step by step with explanations, examples,
 
 ---
 
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
+
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
+
+
 ## ✨ Features
 
 ### 1. Beginner-Friendly Lessons
