@@ -287,7 +287,7 @@ agentic-ai/
 | [5. UC Berkeley – Agentic AI MOOC](https://agenticai-learning.org/f25) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
 | [5.CMU AI Agents](https://www.youtube.com/playlist?list=PLf0BEPn2BGr0) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
 | [5.Develop your first agent with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/develop-first-agent/?wt.mc_id=studentamb_571211) | Learn about LLM agents, multi-agent systems, reasoning, planning, and real-world AI applications, including a lecture by Noam Brown. |
-
+| 4 | [⭐Developing LLM Applications with LangChain](https://www.coursera.org/organizations/pakistan/learn/developing-llm-applications-with-langchain?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUeTVA73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_) | Learn how LLMs use external tools | Pending |
 
 </details>
 
