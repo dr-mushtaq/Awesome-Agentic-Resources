@@ -301,6 +301,7 @@ agentic-ai/
 | 5 | [⭐Getting Started with Vector Databases and AI Embeddings](https://www.coursera.org/organizations/pakistan/learn/packt-getting-started-with-vector-databases-and-ai-embeddings-mmi6s?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUeQ2Y73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545__) | Learn how LLMs use external tools | Pending |
 | 4 | [⭐Advanced RAG with Vector Databases and Retrievers](https://www.coursera.org/organizations/pakistan/learn/advanced-rag-with-vector-databases-and-retrievers?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkrUeQQA73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_) | Learn how LLMs use external tools | Pending |
 | 4 | [⭐CMU AI Agents (Fall 2026)](https://www.youtube.com/playlist?list=PLf0BEPn2BGr0) | Learn how LLMs use external tools | Pending |
+| 4 | [⭐Agentic AI by andrew](https://www.coursera.org/learn/dlai-agentic-ai?irclickid=RwdUCuXvfxyZRr-U1sVnd0wOUkrU5ZyHGQ0gUM0&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_) | Learn how LLMs use external tools | Pending |
 </details>
 
 <details>
