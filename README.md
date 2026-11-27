@@ -387,6 +387,9 @@ agentic-ai/
 | 2 | [zero-to-ai](https://github.com/PavanMudigonda/zero-to-ai) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 | 2 | [Top 10 AI Agent GitHub Resource Collections](https://www.reddit.com/r/letscodecommunity/comments/1xf1hwn/top_10_ai_agent_github_resource_collections/) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
 | 2 | [AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
+| 2 | [⭐GenAI Agents](https://github.com/NirDiamant/GenAI_Agents?utm_source=chatgpt.com) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
+| 2 | [RAG Techniques⭐](https://github.com/NirDiamant/RAG_Techniques?utm_source=chatgpt.com) |Free AI/ML Course: Python, LLMs, RAG, Agents & Deep Learning | Pending |
+</details>
 </details>
 
 <details>
