@@ -254,7 +254,14 @@ agentic-ai/
 
 | No. | Title / Link | Description | Status |
 |---|---|---|---|
+| 2 | [LLM Agents MOOC](https://rdi.berkeley.edu/llm-agents/f24) | Learn the fundamentals of LLM agents, including agent architectures, reasoning, planning, tool use, and building intelligent agent systems. | Pending |
+| 3 | [Advanced LLM Agents MOOC](https://rdi.berkeley.edu/adv-llm-agents/sp25) | Explore advanced LLM agent techniques, including complex agent workflows, advanced reasoning, coordination, and agent system design. | Pending |
+| 4 | [Agentic AI MOOC](https://rdi.berkeley.edu/agentic-ai/f25) | Learn about agentic AI systems, autonomous agents, agent workflows, and practical approaches to building AI-powered autonomous applications. | Pending |
+| 5 | [Machine Learning in Production](https://mlip-cmu.github.io/) | Learn how to deploy, maintain, monitor, and operate machine learning systems in production, covering the full ML lifecycle and real-world engineering challenges. | Pending |
+| 6 | [6.5940 TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940) | Learn efficient deep learning techniques, model compression, quantization, hardware-aware optimization, and deploying machine learning models on resource-constrained devices. | Pending |
+| 7 | [CS336 Language Modeling from Scratch](https://cs336.stanford.edu/) | Gain hands-on experience building language models from scratch, covering data processing, model architecture, training, optimization, scaling, and evaluation. | Pending |
 | 1 | [AI Agents Course by Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction) | Beginner-friendly introduction to agents | Pending |
+
 | 1 | [Evaluating AI Agents](https://www.deeplearning.ai/courses/evaluating-ai-agents) | Learn about tracing, evaluation, debugging, and analyzing agent failures. | Pending |
 | 1 | [A2A: The Agent2Agent Protocol](https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol) | Learn how AI agents can communicate and collaborate across systems. | Pending |
 | 1 | [ AI Coding Workflows: Cloud → Local](https://www.deeplearning.ai/courses/ai-coding-workflows-from-cloud-to-local) |Understand practical coding-agent workflows across local and cloud environments. | Pending |
